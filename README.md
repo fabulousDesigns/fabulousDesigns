@@ -17,16 +17,6 @@ I'm a freelance Web Developer with speciaty in back-End development,functionalit
 <br/>
 <br/>
 
-## EDUCATION
-#### B.s.D Computer Technology
-My educational experience includes my undergraduate college degree- which contributes greatly to my development of skills such as `SEO` and `Fullstack web development`. The classes I take and projects I have completed are for a Computer Science major - and have imparted many of the concepts necessary to understand good web development techniques. I also often work to complete presentations with classmates- and this helps me hone my ability to collaborate constructively. My educational background has prepared me well for a successful career path. I also plan to pursue further coursework in the future in order to keep learning and gain the qualifications to advance in this field.
-
-**Institution** - Meru University of Science and Technology
-
-**Duration**    - 2019 - Present
-<br/>
-<br/>
-
 - 🌱 I’m currently learning Node.Js
 - 👯 I’m a part time VFX artist.
 - 💬 Ask me about any tech related stuff.
