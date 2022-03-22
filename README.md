@@ -13,7 +13,7 @@
 
 <br/>
 <br/>
-I'm a freelance Web Developer with speciaty in back-End development,functionality,UX Design, and Search engine Optimization. I am outgoing, dedicated,and open-minded. I get across to people and adjust to changes easily. Its my belief that someone should work on developing their professional skills and learning new things all the time.
+I'm a freelance Web Developer with speciaty in Front-End development,functionality,UX Design, and Search engine Optimization. I am outgoing, dedicated,and open-minded. I get across to people and adjust to changes easily. Its my belief that someone should work on developing their professional skills and learning new things all the time.
 <br/>
 <br/>
 
