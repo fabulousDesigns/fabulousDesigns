@@ -23,7 +23,10 @@ I'm a freelance Web Developer with speciaty in Front-End development,functionali
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I had a fitbit but sadly I'm a Software Engineer.
 
-[!Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns)](https://github.com/fabulousDesigns/github-readme-stats)
+[![Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns)](https://github.com/anuraghazra/github-readme-stats)
+![Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns&count_private=true)
+![Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns&show_icons=true)
+![Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns&show_icons=true&theme=radical)
 
 **Languages and Tools**
 
