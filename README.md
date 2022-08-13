@@ -25,6 +25,8 @@ I'm a freelance Web Developer with speciaty in Front-End development,functionali
 
 ![Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns&show_icons=true&theme=radical)
 
+<a href="https://app.daily.dev/Huncho254"><img src="https://api.daily.dev/devcards/c11fb42a35ac4c56b2b318f5f77c68ed.png?r=3o3" width="400" alt="Bernard Huncho's Dev Card"/></a>
+
 **Languages and Tools**
 
 <code><img height="40" src="bernard-mburu-master/react-native.png"></code>
