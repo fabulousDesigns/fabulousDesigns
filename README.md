@@ -1,5 +1,5 @@
 
-## Hola👋, I'm Bernard Mburu Huncho
+## Hola👋, I'm Bernard Maina
 
 <a href="https://twitter.com/Benfabulous">
   <img align="left" alt="Sourov's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,7 +25,6 @@ I'm a Developer with specialty in developing both client and server software. I 
 
 ![Fabulous Designs GitHub stats](https://github-readme-stats.vercel.app/api?username=fabulousDesigns&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/Huncho254"><img src="https://api.daily.dev/devcards/c11fb42a35ac4c56b2b318f5f77c68ed.png?r=3o3" width="400" alt="Bernard Huncho's Dev Card"/></a>
 
 **Languages and Tools**
 
