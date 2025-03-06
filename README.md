@@ -18,8 +18,6 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-right: 20px;">
-
   <div align="left">
     <p>
       <strong>👋 Hola!</strong> I'm a passionate Software Engineer who loves crafting elegant solutions to complex problems. My journey in tech has led me through the realms of full-stack development, automation, and system administration.
