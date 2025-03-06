@@ -1,0 +1,58 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+  # Run on push to the main branch with specific paths
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - "README.md"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Snake Animation
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Generate the snake animation
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Configure git
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      # Create output branch if it doesn't exist
+      - name: Create output branch if needed
+        run: |
+          git checkout output || git checkout -b output
+
+      # Copy the files from dist to the root directory
+      - name: Copy files
+        run: |
+          mkdir -p output
+          cp dist/* output/
+
+      # Commit and push the files
+      - name: Commit and push
+        run: |
+          git add output/
+          git commit -m "Generate Snake Animation" || echo "No changes to commit"
+          git push -f origin output
