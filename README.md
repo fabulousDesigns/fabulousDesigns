@@ -1,80 +1,138 @@
-# <div align="center">✨ Bernard Maina | The Code Architect ✨</div>
-
 <div align="center">
-  
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Bernard%20Maina&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Turning+Coffee+into+Code;Fullstack+Developer+%7C+Software+Engineer;.NET+Enthusiast+%7C+Automation+Wizard;Creating+Solutions%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bernard%20Maina&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20|%20Software%20Engineer%20|%20Automation%20Expert&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/fabulousDesigns/fabulousDesigns/blob/main/coding_animation.gif">
+<p align="center">
+  <a href="https://github.com/fabulousDesigns">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🔥%20Passionate%20Software%20Engineer;🚀%20Entity%20Framework%20Expert;💡%20Creative%20Problem%20Solver;🌟%20Open%20Source%20Contributor&font=Fira%20Code&center=true&width=640&height=50&color=6C63FF&vCenter=true&size=22">
+  </a>
+</p>
 
-## 🌟 About The Developer
-
-```javascript
-const bernard = {
-  title: "FullStack Developer & Software Engineer",
-  languages: ["C#", "Java", "Go", "JavaScript", "TypeScript", "Python", "SQL"],
-  frameworks: [".NET", "React", "Angular", "NestJS", "Express"],
-  architectures: ["Microservices", "MVC", "MVVM", "REST APIs"],
-  tools: ["Entity Framework", "Docker", "Azure", "GitHub Actions"],
-  challenges: "Currently building automation solutions that save hours of manual work",
-  funFact: "Jogging daily but still debugging life",
-  availability: "Open to collaboration on innovative projects"
-};
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabulousDesigns&style=for-the-badge&color=6C63FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/fabulousDesigns?logo=github&style=for-the-badge&color=6C63FF" alt="GitHub followers" />
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bernardmaina&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+  <h1>📌 ABOUT ME</h1>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-right: 20px;">
 
-## 📊 Metrics & Analytics
+  <div align="left">
+    <p>
+      <strong>👋 Hola!</strong> I'm a passionate Software Engineer who loves crafting elegant solutions to complex problems. My journey in tech has led me through the realms of full-stack development, automation, and system administration.
+    </p>
+   <p>
+      <strong>🔍 My Philosophy:</strong> Clean code isn't just a practice—it's a mindset. I believe in writing maintainable, scalable, and efficient code that stands the test of time.
+    </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardmaina&theme=tokyonight&hide_border=true&stroke=6C63FF&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=bernardmaina&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=Bernard's%20Contribution%20Stats" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardmaina&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&hide_border=true&layout=compact&langs_count=10" alt="Most Used Languages" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bernardmaina&theme=tokyonight&utcOffset=8" alt="Commit Activity" />
-    </td>
-  </tr>
-</table>
+  <p>
+      <strong>🌱 Currently:</strong> Deepening my knowledge in Entity Framework and enhancing automation workflows to streamline development processes.
+    </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardmaina&theme=tokyonight" width="100%" />
+  <p>
+      <strong>🎯 Fun Fact:</strong> I had a Fitbit but sadly, I'm a Software Engineer. Too much keyboard time, not enough steps! 😆
+    </p>
 
-## 💻 Technical Expertise
+  </div>
+</div>
 
-<details open>
-<summary><b>Programming Languages</b></summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-</details>
+<hr>
 
-<details open>
-<summary><b>Frameworks & Libraries</b></summary>
+<div align="center">
+  <h1>⚡ Languages & Tools I Use</h1>
+  <br>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,py,java,go,react,angular,nodejs,express,bootstrap,sass,mongodb,mysql,sqlite,azure,aws,docker,git,github,githubactions,vscode,visualstudio&perline=12" />
+    </a>
+  </p>
+</div>
+
 <br>
+<hr>
+
+<div align="center">
+  <h1>📊 GitHub Analytics</h1>
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabulousDesigns&theme=tokyonight" alt="Bernard's GitHub Stats" />
 </p>
-</details>
+
+<div class="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabulousDesigns&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Bernard's%20Contribution%20Stats" alt="Bernard's GitHub Stats" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabulousDesigns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bernard's Language Stats" height="170em" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabulousDesigns&theme=tokyonight&hide_border=true" alt="Bernard's GitHub Streak" />
+</p>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/fabulousDesigns"><img alt="Bernard's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fabulousDesigns&custom_title=Bernard%20Maina's%20Contribution%20Graph&bg_color=1a1b27&color=628fdb&line=2e8ddd&point=e377cd&area=true&hide_border=true" /></a>
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+  <h1>🏆 GitHub Achievements</h1>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabulousDesigns&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="Bernard's GitHub Trophies" />
+</p>
+
+<br>
+<hr>
+
+
+<div align="center">
+  <h1>🔥 Contribution Streak</h1>
+  <img src="https://raw.githubusercontent.com/fabulousDesigns/fabulousDesigns/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<br>
+<hr>
+
+<div align="center">
+  <h1>💬 Get In Touch</h1>
+  <a href="www.linkedin.com/in/bernard-maina-17627029b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ 
+  <a href="mailto:mainabenpro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🎧 Currently Vibing To</h2>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX48WRmLJQi4y" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HIP_HOP_503_%2849611454967%29.jpg" alt="Hip-Hop Playlist" width="400"/>
+  </a>
+  <p>🔥 Tap the image to vibe with me on Spotify! 🔥</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>

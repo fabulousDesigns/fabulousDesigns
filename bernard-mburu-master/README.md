@@ -1,46 +1,137 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bernard%20Maina&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20|%20Software%20Engineer%20|%20Automation%20Expert&descAlignY=51&descAlign=62" width="100%" />
+</div>
 
-## Hola, I'm Bernard Mburu Maina 👋
+<p align="center">
+  <a href="https://github.com/fabulousDesigns">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🔥%20Passionate%20Software%20Engineer;🚀%20Entity%20Framework%20Expert;💡%20Creative%20Problem%20Solver;🌟%20Open%20Source%20Contributor&font=Fira%20Code&center=true&width=640&height=50&color=6C63FF&vCenter=true&size=22">
+  </a>
+</p>
 
-<a href="https://twitter.com/Benfabulous">
-  <img align="left" alt="Sourov's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/fabulous-designs-81ba8a220/">
-  <img align="left" alt="Sourov's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/fabulousDesigns">
-  <img align="left" alt="Bernard Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabulousDesigns&style=for-the-badge&color=6C63FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/fabulousDesigns?logo=github&style=for-the-badge&color=6C63FF" alt="GitHub followers" />
+</p>
 
-<br/>
-<br/>
-I'm a freelance Web Developer with speciaty in back-End development,functionality,UX Design, and Search engine Optimization. I am outgoing, dedicated,and open-minded. I get across to people and adjust to changes easily. Its my belief that someone should work on developing their professional skills and learning new things all the time.
-<br/>
-<br/>
+<div align="center">
+  <h1>📌 ABOUT ME</h1>
+</div>
 
-## EDUCATION
-#### B.s.D Computer Technology
-My educational experience includes my undergraduate college degree- which contributes greatly to my development of skills such as `SEO` and `Fullstack web development`. The classes I take and projects I have completed are for a Computer Science major - and have imparted many of the concepts necessary to understand good web development techniques. I also often work to complete presentations with classmates- and this helps me hone my ability to collaborate constructively. My educational background has prepared me well for a successful career path. I also plan to pursue further coursework in the future in order to keep learning and gain the qualifications to advance in this field.
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-right: 20px;">
 
-**Institution** - Meru University of Science and Technology
+  <div align="left">
+    <p>
+      <strong>👋 Hola!</strong> I'm a passionate Software Engineer who loves crafting elegant solutions to complex problems. My journey in tech has led me through the realms of full-stack development, automation, and system administration.
+    </p>
+   <p>
+      <strong>🔍 My Philosophy:</strong> Clean code isn't just a practice—it's a mindset. I believe in writing maintainable, scalable, and efficient code that stands the test of time.
+    </p>
 
-**Duration**    - 2019 - Present
-<br/>
-<br/>
+  <p>
+      <strong>🌱 Currently:</strong> Deepening my knowledge in Entity Framework and enhancing automation workflows to streamline development processes.
+    </p>
 
-- 🌱 I’m currently learning Node.Js
-- 👯 I’m a part time VFX artist.
-- 💬 Ask me about any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I had a fitbit but sadly I'm a Software Engineer.
+  <p>
+      <strong>🎯 Fun Fact:</strong> I had a Fitbit but sadly, I'm a Software Engineer. Too much keyboard time, not enough steps! 😆
+    </p>
 
-**Languages and Tools**
+  </div>
+</div>
 
-<code><img height="40" src="react-native.png"></code>
-<code><img height="40" src="android.png"></code>
-<code><img height="40" src="nodejs.png"></code>
-<code><img height="40" src="bootstrap.png"></code>
-<code><img height="40" src="JavaScript.png"></code>
-<code><img height="40" src="php.png"></code>
-<code><img height="40" src="swift.png"></code>
-<code><img height="40" src="flutter.png"></code>
-<code><img height="40" src="dart.png"></code>
+<br>
+<hr>
+
+<div align="center">
+  <h1>⚡ Languages & Tools I Use</h1>
+  <br>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,py,java,go,react,angular,nodejs,express,bootstrap,sass,mongodb,mysql,sqlite,azure,aws,docker,git,github,githubactions,vscode,visualstudio&perline=12" />
+    </a>
+  </p>
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+  <h1>📊 GitHub Analytics</h1>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabulousDesigns&theme=tokyonight" alt="Bernard's GitHub Stats" />
+</p>
+
+<div class="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabulousDesigns&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Bernard's%20Contribution%20Stats" alt="Bernard's GitHub Stats" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabulousDesigns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bernard's Language Stats" height="170em" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabulousDesigns&theme=tokyonight&hide_border=true" alt="Bernard's GitHub Streak" />
+</p>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/fabulousDesigns"><img alt="Bernard's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fabulousDesigns&custom_title=Bernard%20Maina's%20Contribution%20Graph&bg_color=1a1b27&color=628fdb&line=2e8ddd&point=e377cd&area=true&hide_border=true" /></a>
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+  <h1>🏆 GitHub Achievements</h1>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabulousDesigns&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="Bernard's GitHub Trophies" />
+</p>
+
+<br>
+<hr>
+
+<div align="center">
+  <h1>🔥 Contribution Streak</h1>
+  <img src="https://raw.githubusercontent.com/fabulousDesigns/fabulousDesigns/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<br>
+<hr>
+
+<div align="center">
+  <h1>💬 Get In Touch</h1>
+  <a href="www.linkedin.com/in/bernard-maina-17627029b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ 
+  <a href="mailto:mainabenpro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🎧 Currently Vibing To</h2>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX48WRmLJQi4y" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HIP_HOP_503_%2849611454967%29.jpg" alt="Hip-Hop Playlist" width="400"/>
+  </a>
+  <p>🔥 Tap the image to vibe with me on Spotify! 🔥</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
