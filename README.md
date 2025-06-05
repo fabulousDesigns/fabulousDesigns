@@ -1,5 +1,4 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:9F7AEA&height=250&section=header&text=Bernard%20Maina&fontSize=60&fontAlignY=40&desc=Frontend%20Engineer%20%7C%20React%2FNext.js%20%26%20Angular&descAlignY=60&animation=fadeIn)
 </div>
 
 <p align="center">
