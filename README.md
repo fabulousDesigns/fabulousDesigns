@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bernard%20Maina&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20|%20React%2FNext.js%20%26%20Angular%20Specialist%20|%20TypeScript%20Lover&descAlignY=51&descAlign=62" width="100%" />
+<img src="https://raw.githubusercontent.com/fabulousDesigns/fabulousDesigns/main/assets/banner.png" width="100%" />
 </div>
 
 <p align="center">
